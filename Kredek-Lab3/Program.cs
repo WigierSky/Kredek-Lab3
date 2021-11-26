@@ -149,6 +149,7 @@ namespace Kredek_Lab3
                     {
                         Console.WriteLine("____________________________");
                         Console.WriteLine("\r\n" + "Przykro mi, przegrałeś :<");
+                        Console.WriteLine("Słowo to: " + word);
                         Console.WriteLine("____________________________");
                         Console.WriteLine();
                         Console.WriteLine("===============");
